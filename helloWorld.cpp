@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-cout<<"Hello World";
+cout<<"Hello World Hello Duniya";   //Hindi is our National Language
 }
